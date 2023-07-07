@@ -10,7 +10,7 @@
 
 ### Halaman Unggah Gambar
 
-![enter image description here](https://github.com/ignabenz/tugas-uas-komgraf/blob/main/assets/form.jpg?raw=true)
+![enter image description here](https://github.com/Ilham16213/uas_komgraf_ilham/blob/main/gambar/halaman_hasil.png?raw=true)
 
 ### Halaman Potong Gambar
 
