@@ -10,12 +10,12 @@
 
 ### Halaman Unggah Gambar
 
-![enter image description here](https://github.com/Ilham16213/uas_komgraf_ilham/blob/main/gambar/halaman_hasil.png?raw=true)
+![enter image description here](https://github.com/Ilham16213/uas_komgraf_ilham/blob/main/gambar/halaman_utama.png?raw=true)
 
 ### Halaman Potong Gambar
 
-![enter image description here](https://github.com/ignabenz/tugas-uas-komgraf/blob/main/assets/crop.jpg?raw=true)
+![enter image description here](https://github.com/Ilham16213/uas_komgraf_ilham/blob/main/gambar/halaman_potong.png?raw=true)
 
 ### Halaman Gambar Setelah Di Potong
 
-![enter image description here](https://github.com/ignabenz/tugas-uas-komgraf/blob/main/assets/result.jpg?raw=true)
+![enter image description here](https://github.com/Ilham16213/uas_komgraf_ilham/blob/main/gambar/halaman_hasil.png?raw=true)
